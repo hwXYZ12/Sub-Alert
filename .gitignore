@@ -1,0 +1,8 @@
+node_modules/
+images/
+keys/
+sounds/
+blns.json
+transactionLog.txt
+*.log
+/subNotificationsBug
